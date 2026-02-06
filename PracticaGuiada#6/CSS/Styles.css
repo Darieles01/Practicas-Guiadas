@@ -1,0 +1,26 @@
+h1 {
+  color: rgb(72, 255, 0);
+}
+.miClase {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 100;
+}
+#nombre {
+  color: aqua;
+}
+[type="password"] {
+  border: 2px solid blue;
+}
+
+a {
+  text-transform: uppercase;
+}
+
+footer a {
+  text-transform: lowercase;
+}
+
+a.text{
+  text-transform: uppercase;
+}
